@@ -1,4 +1,4 @@
-# Emotion Detection Application (Final Project)
+## Final Project
 
 An AI-based web app that detects emotions (anger, disgust, fear, joy, sadness) in text
 using the Watson NLP EmotionPredict library, packaged as `EmotionDetection`, deployed with Flask.
